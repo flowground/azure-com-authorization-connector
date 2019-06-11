@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the AuthorizationManagementClient API (version 2015-07-01).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/authorization/2015-07-01/swagger.json<br/>
-Generated at: 2019-05-07T17:37:18+03:00
+Generated at: 2019-06-11T18:13:20+03:00
 
 ## API Description
 
